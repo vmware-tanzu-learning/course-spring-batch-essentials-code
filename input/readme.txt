@@ -1,0 +1,1 @@
+This directory is the input area of the billing job.
