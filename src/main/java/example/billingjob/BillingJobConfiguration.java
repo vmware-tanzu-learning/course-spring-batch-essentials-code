@@ -131,5 +131,10 @@ public class BillingJobConfiguration {
 				.build();
 	}
 
+	@Bean
+	public PricingService pricingService() {
+		return  new PricingService();
+	}
+
 
 }
